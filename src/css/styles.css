@@ -20,11 +20,11 @@ body {
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
   height: 100vh;
-  /* background-image: linear-gradient(120deg, #a6c0fe 0%, #b5f680 100%); */
-  background-image: url();
+  background-image: linear-gradient(120deg, #324a83 0%, #b5f680 100%);
+  /* background-image: url('../images/1566058523140371707.jpg'); */
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 50px;
+  padding: 100px;
 }
 .input-box {
   display: flex;
